@@ -27,9 +27,11 @@ The attributes we can use to predict the severity of an accident are 'WEATHER', 
 
 ## Data Preparation:
 This dataset is not fit for analysis perfectly.
-We should not use all attributes for our model. 
+We should not use all attributes for our model.
+
 Most of the attributes are text-type, so we should convert them to a numerical type.
 We should use label encoding to covert the features.
+
 The target variable SEVERITYCODE is only 42% balanced. 
 the quantity of severitycode in class 1 is 136485 and the class 2 is 58188.
 We can fix this by downsampling the class 1.
