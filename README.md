@@ -3,6 +3,18 @@ IBM Applied Data Science Capstone
 
 Let's apply CRISP (Cross-Industry standart process for data mining) to that problem.
 
+## Introduction
+
+The costs of fatalities and injuries due to traffic accidents have a great impact on the society. In recent years, researchers have paid increasing attention to determining factors that significantly affect severity of driver injuries caused by traffic accidents. 
+
+Annual Global Road Crash Statistics:
+* Approximately 1.35 million people die in road crashes annually, on average 3,700 people lose their lives every day on the roads. 
+* An additional 20-50 million suffer non-fatal injuries, often resulting in long-term disabilities.  
+* More than half of all road traffic deaths occur among vulnerable road users—pedestrians, cyclists, and motorcyclists.  
+* Road traffic injuries are the leading cause of death among young people aged 5-29. 
+* Young adults aged 15-44 account for more than half of all road deaths.  
+* On average, road crashes cost countries 3% of their gross domestic product. 
+
 ## Business Undertanding
 
 For problem understanding let's see the situation: 
