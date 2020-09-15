@@ -1,5 +1,4 @@
 # Capstone
-IBM Applied Data Science Capstone
 
 Let's apply CRISP (Cross-Industry standard process for data mining) to that problem.
 
